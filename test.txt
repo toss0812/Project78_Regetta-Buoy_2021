@@ -1,4 +1,5 @@
 Henlo
+<<<<<<< HEAD
 
 
 
@@ -6,3 +7,14 @@ Henlo
 
 
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+=======
+<<<<<<< HEAD
+
+Shalom
+=======
+We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+>>>>>>> ed0414ab1c06d9494d60b75240c2de994c89bd08
+>>>>>>> 08d28ca7384a24646105cf99fae1c309bcd4bf67
