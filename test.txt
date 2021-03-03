@@ -27,7 +27,11 @@ BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 =======
 sua mãe está na minha cama
 >>>>>>> e8c7a5a4471105a3f630594fa951e2a7cec96877
+<<<<<<< HEAD
 
 
 
 si senor
+=======
+ik wil sex met die kale
+>>>>>>> 43173718f3ed94c7081f315b505d190feeb7f6c8
