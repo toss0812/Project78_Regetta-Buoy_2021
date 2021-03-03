@@ -18,3 +18,12 @@ A full commitment's what I'm thinking of
 You wouldn't get this from any other guy
 >>>>>>> ed0414ab1c06d9494d60b75240c2de994c89bd08
 >>>>>>> 08d28ca7384a24646105cf99fae1c309bcd4bf67
+
+<<<<<<< HEAD
+
+
+
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+=======
+sua mãe está na minha cama
+>>>>>>> e8c7a5a4471105a3f630594fa951e2a7cec96877
